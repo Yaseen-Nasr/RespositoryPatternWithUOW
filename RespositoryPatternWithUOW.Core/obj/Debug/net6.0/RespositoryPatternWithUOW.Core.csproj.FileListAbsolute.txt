@@ -1,0 +1,12 @@
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.Core\bin\Debug\net6.0\RespositoryPatternWithUOW.Core.deps.json
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.Core\bin\Debug\net6.0\RespositoryPatternWithUOW.Core.dll
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.Core\bin\Debug\net6.0\RespositoryPatternWithUOW.Core.pdb
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.Core\obj\Debug\net6.0\RespositoryPatternWithUOW.Core.csproj.AssemblyReference.cache
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.Core\obj\Debug\net6.0\RespositoryPatternWithUOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.Core\obj\Debug\net6.0\RespositoryPatternWithUOW.Core.AssemblyInfoInputs.cache
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.Core\obj\Debug\net6.0\RespositoryPatternWithUOW.Core.AssemblyInfo.cs
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.Core\obj\Debug\net6.0\RespositoryPatternWithUOW.Core.csproj.CoreCompileInputs.cache
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.Core\obj\Debug\net6.0\RespositoryPatternWithUOW.Core.dll
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.Core\obj\Debug\net6.0\refint\RespositoryPatternWithUOW.Core.dll
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.Core\obj\Debug\net6.0\RespositoryPatternWithUOW.Core.pdb
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.Core\obj\Debug\net6.0\ref\RespositoryPatternWithUOW.Core.dll

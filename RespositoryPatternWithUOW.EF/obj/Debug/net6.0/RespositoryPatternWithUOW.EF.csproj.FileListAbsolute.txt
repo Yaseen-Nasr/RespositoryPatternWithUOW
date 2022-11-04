@@ -1,0 +1,17 @@
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\bin\Debug\net6.0\RespositoryPatternWithUOW.EF.deps.json
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\bin\Debug\net6.0\RespositoryPatternWithUOW.EF.runtimeconfig.json
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\bin\Debug\net6.0\RespositoryPatternWithUOW.EF.dll
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\bin\Debug\net6.0\RespositoryPatternWithUOW.EF.pdb
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\obj\Debug\net6.0\RespositoryPatternWithUOW.EF.csproj.AssemblyReference.cache
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\obj\Debug\net6.0\RespositoryPatternWithUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\obj\Debug\net6.0\RespositoryPatternWithUOW.EF.AssemblyInfoInputs.cache
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\obj\Debug\net6.0\RespositoryPatternWithUOW.EF.AssemblyInfo.cs
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\obj\Debug\net6.0\RespositoryPatternWithUOW.EF.csproj.CoreCompileInputs.cache
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\obj\Debug\net6.0\RespositoryPatternWithUOW.EF.dll
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\obj\Debug\net6.0\refint\RespositoryPatternWithUOW.EF.dll
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\obj\Debug\net6.0\RespositoryPatternWithUOW.EF.pdb
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\obj\Debug\net6.0\RespositoryPatternWithUOW.EF.genruntimeconfig.cache
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\obj\Debug\net6.0\ref\RespositoryPatternWithUOW.EF.dll
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\bin\Debug\net6.0\RespositoryPatternWithUOW.Core.dll
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\bin\Debug\net6.0\RespositoryPatternWithUOW.Core.pdb
+C:\Data\RespositoryPatternWithUOW\RespositoryPatternWithUOW.EF\obj\Debug\net6.0\RespositoryPatternWithUOW.EF.csproj.CopyComplete
